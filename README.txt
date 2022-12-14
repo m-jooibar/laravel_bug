@@ -3,6 +3,7 @@ I have been developed two logs command .
 
 Please run this command first to insert logs to database from file :
 log file = "log.txt"
+this file have been located in "storage\app\logs\log.txt"
 ===================================
 2- logs:read that require ( log url )
 log url = "http://localhost:8000/api/logs?serviceName=getUserLists&statusCode=301&startDate=2020-12-01%2012:30:01&endDate=2020-12-02%2012:30:01"
