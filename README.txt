@@ -26,3 +26,14 @@ http://localhost:8000/api/logs?serviceName=getUserLists&statusCode=301
 http://localhost:8000/api/logs?serviceName=getUserLists
 http://localhost:8000/api/logs
 
+=======================
+***********************
+IMPORTANT NOTE
+***********************
+I made a mistake and I know it myself.
+In the filter for the time intervals 
+I should have put the time between the time intervals. But unfortunately, 
+I set the time equal to the filter value. 
+The time I spent on this project was more than 5 hours. 
+Almost 6 hours. That's why I didn't try to fix that mistake. 
+Thank you
